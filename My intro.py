@@ -11,7 +11,7 @@ while True:
     display.scroll('Hello, You!', delay=200)
     
     if button_a.is_pressed():
-        display.scroll("Ik been Yair.", delay=200)
+        display.scroll("Ik ben Yair.", delay=200)
         
     if button_b.is_pressed():
         display.show(EI, delay=300)
