@@ -1,4 +1,3 @@
-MultiLine = []
 print("Hello, You! Ik ben Yair!")
 print("Wie ben jij?")
 name = input()
